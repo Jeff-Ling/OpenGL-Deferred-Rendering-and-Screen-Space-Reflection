@@ -1,4 +1,4 @@
-# OpenGL-Deferred-Rendering-and-Screen-Space-Reflection
+# OpenGL Deferred Rendering & Screen Space Reflection
 CIS 561 Project - Deferred Rendering and SSR
 
  - Programmed `g-buffer.frag.glsl` shader to store data in multiple output channels, facilitating the rendering of accurate reflections of objects on other objects within a scene.
